@@ -16,14 +16,7 @@ A full-stack MERN currency converter that delivers real-time exchange rates with
 ---
 
 # 🌐 Live Demo
-
-### Frontend
-https://lighthearted-figolla-387063.netlify.app/
-
-### Backend
-https://YOUR_RENDER_BACKEND_URL.onrender.com
-
----
+https://lighthearted-figolla-387063.netlify.app
 
 # 📌 Overview
 
