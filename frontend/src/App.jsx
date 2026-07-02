@@ -20,7 +20,7 @@ const App = () => {
   const covertCurrencies=async()=>{
     try {
       const { data } = await axios.get(
-       `http://localhost:4000/convert?base_currency=${baseCurrency}&currencies=${selectedCurrency}`
+       `https://xchange-hub.onrender.com/convert?base_currency=${baseCurrency}&currencies=${selectedCurrency}`
       );
 
       let result=Object.values(data.data)[0]*amount;
